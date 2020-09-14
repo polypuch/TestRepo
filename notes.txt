@@ -23,3 +23,9 @@ git checkout notes.txt
 
 #Muestra las diferencias
 git diff <nombreArchivo>
+ 
+#Muestra historial de cambios
+git log
+
+#Podemos hacer un archivo .gitignore
+Los nombres que pongamos dentro los ignorara el git
