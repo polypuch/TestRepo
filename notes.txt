@@ -42,5 +42,5 @@ git checkout nombreBranch
 #agregar el repo remoto
 git remote add origin <url>
 
-#insertar los cambios
+#Insertar los cambios en el repo remoto
 git push -u origin master
