@@ -29,3 +29,18 @@ git log
 
 #Podemos hacer un archivo .gitignore
 Los nombres que pongamos dentro los ignorara el git
+
+#Muestra las branch actuals
+git branch
+
+#Crear nueva branch
+git branch nombreBranch
+
+#cambiar de branch
+git checkout nombreBranch
+
+#agregar el repo remoto
+git remote add origin <url>
+
+#insertar los cambios
+git push -u origin master
