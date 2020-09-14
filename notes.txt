@@ -1,0 +1,20 @@
+#Inicializar 
+git init
+
+#Agregar files
+git add . [nombreFile]
+
+#estado
+git status 
+
+#guardar cambios
+
+#subir a un repositorio remoto
+git push
+
+#actualizar desde un repo remoto
+git pull
+
+#clonar de un repo remoto
+git clone
+
