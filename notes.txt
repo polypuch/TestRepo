@@ -20,3 +20,6 @@ git clone
 
 #Vuelve al último cambio realizado con commit
 git checkout notes.txt
+
+#Muestra las diferencias
+git diff <nombreArchivo>
